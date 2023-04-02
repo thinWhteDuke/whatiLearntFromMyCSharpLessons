@@ -1,0 +1,7 @@
+C:\Users\asus pc\RiderProjects\whatiLearntFromMyCSharpLessons\whatiLearntFromMyCSharpLessons\bin\Debug\whatiLearntFromMyCSharpLessons.exe
+C:\Users\asus pc\RiderProjects\whatiLearntFromMyCSharpLessons\whatiLearntFromMyCSharpLessons\bin\Debug\whatiLearntFromMyCSharpLessons.pdb
+C:\Users\asus pc\RiderProjects\whatiLearntFromMyCSharpLessons\whatiLearntFromMyCSharpLessons\obj\Debug\whatiLearntFromMyCSharpLessons.csproj.AssemblyReference.cache
+C:\Users\asus pc\RiderProjects\whatiLearntFromMyCSharpLessons\whatiLearntFromMyCSharpLessons\obj\Debug\whatiLearntFromMyCSharpLessons.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus pc\RiderProjects\whatiLearntFromMyCSharpLessons\whatiLearntFromMyCSharpLessons\obj\Debug\whatiLearntFromMyCSharpLessons.csproj.CoreCompileInputs.cache
+C:\Users\asus pc\RiderProjects\whatiLearntFromMyCSharpLessons\whatiLearntFromMyCSharpLessons\obj\Debug\whatiLearntFromMyCSharpLessons.exe
+C:\Users\asus pc\RiderProjects\whatiLearntFromMyCSharpLessons\whatiLearntFromMyCSharpLessons\obj\Debug\whatiLearntFromMyCSharpLessons.pdb
